@@ -1,75 +1,76 @@
-# AI-Powered Business Model Framework Repository
-**Powered by ai-agents-miyabi 統合AI支援システム**
+# Business Model Framework Repository
+ビジネスモデル設計のためのテンプレート・ガイド集
 
-## 🤖 AI統合型戦略フレームワーク (AI-Integrated Strategic Framework)
+## 概要
 
-このリポジトリは、**26種のAI専門エージェント**による支援を受けながら、ビジネスモデルの構想・設計・検証・実行を体系的に管理する次世代型フレームワークです。各ディレクトリには、専門特化されたAIエージェントが配置され、プロジェクトの透明性・効率性・品質を飛躍的に向上させます。
+このリポジトリは、ビジネスモデルの構想・設計・検証・実行を体系的に管理するためのテンプレート集です。スタートアップ、新規事業、企業DX推進プロジェクトで活用できます。
 
-**🎯 主要特徴**
-- ✨ **AI駆動型ワークフロー**: 各専門領域にAIエージェントを配置
-- 🔄 **継続的最適化**: リアルタイムでの品質向上・効率化提案
-- 📊 **データドリブン意思決定**: エビデンスベースの戦略立案支援
-- 🌐 **多言語・多文化対応**: グローバル展開に最適化
+**主要特徴**
+- **体系的な構成**: 10のフェーズに分かれた整理されたディレクトリ構造
+- **豊富なテンプレート**: BMC、リーンキャンバス、財務予測など65以上のテンプレート
+- **実践的なサンプル**: 架空のSaaS「シンプルコラボ」を例にした記入例
+- **AIツール活用ガイド**: ChatGPT等のAIツールと組み合わせた活用方法を紹介
 
-## 🏗️ AI統合ディレクトリ構造 (AI-Integrated Directory Structure)
+## ディレクトリ構造
 
-| フォルダ名 | AI専門エージェント | 主要機能 |
+| フォルダ名 | 担当領域 | 主要コンテンツ |
 | :--- | :--- | :--- |
-| **01_Framework_Theory/** | 🎓 **AI Education Assistant #8** | 理論体系の構築・学習プログラム設計・知識体系化 |
-| **02_Input_Data_and_Research/** | 🔍 **AI Research Analyst #3** | 市場調査・競合分析・データ収集・洞察抽出 |
-| **03_Drafts_and_Working_Files/** | 💡 **AI Strategy Consultant #4** | 戦略立案・コンセプト開発・アイデア創出支援 |
-| **04_Analysis_and_Validation/** | 📊 **AI Data Analyst #5 + AI Financial Analyst #6** | 財務分析・データマイニング・ROI算定・リスク評価 |
-| **05_Final_Documents_and_Templates/** | ✍️ **AI Writer #7** | 文書作成・コンテンツ最適化・品質保証 |
-| **06_Communication_and_Presentation/** | 📢 **AI Marketer #11** | ブランディング・メッセージング・ステークホルダー対応 |
-| **07_Project_Governance/** | 👔 **AI Project Manager #1** | プロジェクト管理・進捗監視・リソース最適化 |
-| **08_Legal_and_IP/** | ⚖️ **AI Legal Advisor #20** | 法務コンプライアンス・知財戦略・リスク管理 |
-| **09_Technology_and_Dev/** | 🔧 **AI Engineer #9 + AI Test Engineer #10** | システム設計・開発管理・品質保証・テスト戦略 |
-| **10_Archive/** | 🗄️ **AI Agent Health Monitor #26** | バージョン管理・パフォーマンス監視・継続的改善 |
+| **01_Framework_Theory/** | 理論基盤 | BMC・リーンキャンバスの解説、用語集、事例研究 |
+| **02_Input_Data_and_Research/** | 市場調査 | 市場分析、競合分析、顧客ペルソナのテンプレート |
+| **03_Drafts_and_Working_Files/** | アイデア開発 | キャンバスのドラフト、ブレスト用テンプレート |
+| **04_Analysis_and_Validation/** | 分析・検証 | 財務予測、定量分析、MVP検証計画 |
+| **05_Final_Documents_and_Templates/** | 最終文書 | 完成版ビジネスモデル、ロードマップ |
+| **06_Communication_and_Presentation/** | プレゼン資料 | ピッチデッキ、議事録、多言語対応 |
+| **07_Project_Governance/** | プロジェクト管理 | リスク管理、タイムライン、ステークホルダー管理 |
+| **08_Legal_and_IP/** | 法務・知財 | コンプライアンス、IP戦略、契約テンプレート |
+| **09_Technology_and_Dev/** | 技術・開発 | システムアーキテクチャ、ユーザーストーリー |
+| **10_Archive/** | アーカイブ | 過去バージョン、却下アイデアの記録 |
 
-## 🚀 AI支援ワークフロー (AI-Assisted Workflow)
+## 活用ワークフロー（6フェーズ）
 
-### Phase 1: 知識基盤構築 (Knowledge Foundation)
-**🎓 AI Education Assistant** が理論フレームワークの最適化・チーム教育プログラムの設計を支援
+### Phase 1: 知識基盤構築
+`01_Framework_Theory/` のテンプレートで、BMC・リーンキャンバスの基礎を学習
 
-### Phase 2: インテリジェント市場分析 (Intelligent Market Analysis)  
-**🔍 AI Research Analyst** が大規模データ収集・パターン認識・予測分析を自動実行
+### Phase 2: 市場調査・顧客理解
+`02_Input_Data_and_Research/` で市場規模、競合、顧客ペルソナを整理
 
-### Phase 3: 戦略的構想立案 (Strategic Ideation)
-**💡 AI Strategy Consultant** がMECE分析・シナリオプランニング・戦略オプション評価を提供
+### Phase 3: アイデア開発
+`03_Drafts_and_Working_Files/` でブレストし、キャンバスのドラフトを作成
 
-### Phase 4: 高度分析・検証 (Advanced Analysis & Validation)
-**📊 AI Data/Financial Analyst** が統計解析・財務モデリング・リスクシミュレーションを実行
+### Phase 4: 分析・検証
+`04_Analysis_and_Validation/` で財務予測、仮説検証計画を策定
 
-### Phase 5: プロフェッショナル文書化 (Professional Documentation)
-**✍️ AI Writer** が説得力のある文書・レポート・プレゼン資料の自動生成を支援
+### Phase 5: 最終文書化
+`05_Final_Documents_and_Templates/` で完成版ビジネスモデルを作成
 
-### Phase 6: 戦略的コミュニケーション (Strategic Communication)
-**📢 AI Marketer** がターゲット別メッセージング・ブランド戦略・エンゲージメント最適化を提供
+### Phase 6: プレゼンテーション準備
+`06_Communication_and_Presentation/` でピッチデッキ、投資家向け資料を準備
 
-## 🎯 活用シナリオ別AI支援 (AI Support by Use Case)
+## 活用シナリオ別ガイド
 
-### 🏢 スタートアップ・新規事業
-- **AI Strategy Consultant**: リーン戦略・MVP設計支援
-- **AI Financial Analyst**: 資金調達・投資家向け資料作成
-- **AI Legal Advisor**: 法人設立・契約書レビュー
+### スタートアップ・新規事業
+- `03_Drafts_and_Working_Files/` でリーンキャンバスを作成
+- `04_Analysis_and_Validation/` で財務予測・MVP計画
+- `08_Legal_and_IP/` で法人設立チェックリスト確認
 
-### 🏭 既存企業・DX推進
-- **AI Engineer + Test Engineer**: システム設計・技術選定
-- **AI Project Manager**: アジャイル導入・チーム最適化
-- **AI Data Analyst**: 既存データ活用・予測モデル構築
+### 既存企業・DX推進
+- `09_Technology_and_Dev/` でシステムアーキテクチャ設計
+- `07_Project_Governance/` でプロジェクト管理
+- `02_Input_Data_and_Research/` で市場・顧客分析
 
-### 🌍 グローバル展開
-- **AI Research Analyst**: 海外市場調査・文化適応分析
-- **AI Legal Advisor**: 国際法務・現地規制対応
-- **AI Marketer**: 多文化マーケティング戦略
+### グローバル展開
+- `02_Input_Data_and_Research/` で海外市場調査
+- `08_Legal_and_IP/` で国際規制対応
+- `06_Communication_and_Presentation/` で多言語資料作成
 
-## ⚡ AIエージェント統合効果 (AI Agent Integration Benefits)
+## AIツールとの併用方法
 
-- **⏱️ 時間効率**: 従来比70%の時間短縮
-- **📈 品質向上**: エラー率90%削減・一貫性確保
-- **🎯 精度向上**: データドリブン意思決定による成功率向上
-- **🔄 継続改善**: リアルタイムフィードバック・自動最適化
+このテンプレート集は、ChatGPT、Claude、Copilot等のAIツールと併用することで効果を発揮します：
+
+1. テンプレートの空欄をAIに埋めてもらう
+2. 作成した内容のレビュー・改善提案を依頼
+3. 競合分析や市場調査のリサーチを支援してもらう
 
 ---
-💡 **Next Generation Business Strategy Framework**  
-*Powered by Specialized AI Agents for Unprecedented Strategic Excellence*
+**Business Model Framework**
+*スタートアップから企業DXまで使えるテンプレート集*
